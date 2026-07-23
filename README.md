@@ -1,131 +1,143 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:8B5CF6&height=220&section=header&text=Hamza%20Iftikhar&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Python%20Backend%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<!-- ========================= -->
+<!--      TERMINAL HEADER      -->
+<!-- ========================= -->
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Python+Backend+Developer;Django+Developer;Building+Scalable+Backend+Applications;Always+Learning" alt="Typing SVG" />
-</a>
+```text
+██╗  ██╗ █████╗ ███╗   ███╗███████╗ █████╗ 
+██║  ██║██╔══██╗████╗ ████║╚══███╔╝██╔══██╗
+███████║███████║██╔████╔██║  ███╔╝ ███████║
+██╔══██║██╔══██║██║╚██╔╝██║ ███╔╝  ██╔══██║
+██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝
 
-<br/>
-
-<img src="https://img.shields.io/badge/Status-Open%20to%20Backend%20Internships-6D28D9?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Focus-Django%20%7C%20DRF-8B5CF6?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Building-Scalable%20Systems-A855F7?style=for-the-badge&labelColor=0D1117" />
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6D28D9&height=2&width=100%" width="100%"/>
-
-<br/>
-
-## About
-
-<img align="right" width="35%" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
-
-I am a Computer Science student with a focus on **Python backend development**. I am currently learning **Django** and the **Django REST Framework**, applying that knowledge to build real-world backend applications.
-
-I am interested in designing and building **scalable backend systems**, and I am open to **backend internship opportunities** where I can grow as an engineer while contributing to meaningful projects.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6D28D9&height=2&width=100%" width="100%"/>
-
-<br/>
-
-## Technical Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,django,java,cpp,js,html,css,mysql,mongodb,sqlite,git,github,vscode,postman&theme=dark&perline=7" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://img.shields.io/badge/-Django%20REST%20Framework-0D1117?style=for-the-badge&logo=django&logoColor=8B5CF6&labelColor=0D1117&color=6D28D9" />
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6D28D9&height=2&width=100%" width="100%"/>
-
-<br/>
-
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced Django ORM
-  - Django REST Framework
-  - Authentication
-
-Building:
-  - Employee Management System
-
-Next:
-  - Habitus
-
-Goal:
-  - Backend Engineer
+> booting developer profile...
+> authentication successful ✓
+> loading backend engineer...
+> welcome, Hamza Iftikhar 🚀
 ```
 
-<br/>
+# 👋 Hey, I'm Hamza Iftikhar
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6D28D9&height=2&width=100%" width="100%"/>
+### Python Backend Developer • Django Developer • Computer Science Student
 
-<br/>
+---
 
-## GitHub Analytics
+## 💻 Terminal
 
-<div align="center">
+```bash
+┌──────────────────────────────────────────────────────────────┐
+│ USER        : Hamza Iftikhar                                 │
+│ ROLE        : Python Backend Developer                       │
+│ LOCATION    : Islamabad, Pakistan                            │
+│ EDUCATION   : BS Computer Science (COMSATS University)       │
+│ FOCUS       : Django • REST APIs • Backend Development       │
+│ EXPERIENCE  : Building Real-World Backend Projects           │
+│ LEARNING    : Django → DRF → Docker → AWS → DevOps           │
+│ STATUS      : Open for Internship Opportunities              │
+└──────────────────────────────────────────────────────────────┘
+```
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hamzaiftikhar01&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=FFFFFF" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaiftikhar01&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" />
+---
 
-<br/>
+## 🚀 About Me
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamzaiftikhar01&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakLabel=A855F7&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" width="65%" />
+- 💻 Passionate about Backend Development
+- 🐍 Python & Django enthusiast
+- 🔥 Learning Django REST Framework
+- 📚 Strong foundation in OOP, DSA & Databases
+- 🌱 Currently building production-level Django projects
+- 🎯 Goal: Become a Professional Backend Engineer
 
-<br/><br/>
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamzaiftikhar01&theme=react-dark&bg_color=0D1117&color=A855F7&line=8B5CF6&point=FFFFFF&hide_border=true&area=true" width="90%" />
+## ⚡ Tech Stack
 
-</div>
+**Languages**
 
-<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6D28D9&height=2&width=100%" width="100%"/>
+**Frontend**
 
-<br/>
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## Certifications
+**Backend**
 
-<div align="center">
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/DRF-CC0000?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Coursera-0D1117?style=for-the-badge&logo=coursera&logoColor=8B5CF6&labelColor=0D1117&color=6D28D9" />
-<img src="https://img.shields.io/badge/Google-0D1117?style=for-the-badge&logo=google&logoColor=8B5CF6&labelColor=0D1117&color=6D28D9" />
-<img src="https://img.shields.io/badge/Google%20Cloud-0D1117?style=for-the-badge&logo=googlecloud&logoColor=8B5CF6&labelColor=0D1117&color=6D28D9" />
-<img src="https://img.shields.io/badge/Simplilearn-0D1117?style=for-the-badge&logo=simplilearn&logoColor=8B5CF6&labelColor=0D1117&color=6D28D9" />
+**Database**
 
-</div>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br/>
+**Tools**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:6D28D9&height=2&width=100%" width="100%"/>
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
-<br/>
+---
 
-## Contribution Snake
+## 🚀 Current Projects
 
-<div align="center">
+- ✅ Employee Management System
+- ✅ Django Authentication System
+- 🚧 Habitus (Habit Tracking Platform)
+- 🚧 Applicant Tracking System (ATS)
+- 🚧 CRM Backend
 
-<img src="https://raw.githubusercontent.com/Hamzaiftikhar01/Hamzaiftikhar01/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+---
 
-</div>
+## 📈 GitHub Stats
 
-<br/>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6D28D9,100:8B5CF6&height=150&section=footer" width="100%"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+---
+
+```bash
+> system.status
+
+Backend Skills      ████████████████░░░ 85%
+Django              █████████████████░░ 90%
+Python              █████████████████░░ 90%
+SQL                 ██████████████░░░░░ 80%
+Problem Solving     ███████████████░░░░ 85%
+Learning            ███████████████████ 100%
+```
+
+---
+
+> *"First solve the problem. Then write clean, scalable, maintainable code."* 🚀
+
