@@ -20,7 +20,7 @@
 
 <br/>
 
-## About 
+## About Me
 
 <img align="right" width="35%" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
 
